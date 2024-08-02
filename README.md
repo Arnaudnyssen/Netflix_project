@@ -31,14 +31,14 @@ Setup
 To set up this project, follow these steps:
 
 Clone the repository:
-sh
-Copier le code
-git clone https://github.com/yourusername/netflix-data-analysis.git
+```sh
+git clone https://github.com/Arnaudnyssen/Netflix_project.git
 cd netflix-data-analysis
+```
 Install the necessary dependencies:
-sh
-Copier le code
+```sh
 pip install pandas seaborn matplotlib sqlite3
+```
 Data Cleaning and Transformation
 
 The datasets are cleaned and transformed using pandas. This involves:
