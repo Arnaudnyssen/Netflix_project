@@ -4,7 +4,7 @@ Overview
 
 This project aims to analyze and visualize relationships between various datasets related to Netflix viewing hours and IMDb ratings. The data is cleaned and transformed using pandas, stored in an SQLite3 database, and visualized using seaborn and matplotlib.
 
-Table of Contents
+*Table of Contents*:
 
 Project Description
 Datasets
