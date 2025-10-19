@@ -6,13 +6,13 @@ This project aims to analyze and visualize relationships between various dataset
 
 *Table of Contents*:
 
--Project Description
--Datasets
--Setup
--Data Cleaning and Transformation
--Database Creation
--Data Visualization
--Conclusions
+-Project Description  
+-Datasets  
+-Setup  
+-Data Cleaning and Transformation  
+-Database Creation  
+-Data Visualization  
+-Conclusions  
 
 *Project Description*:
 
