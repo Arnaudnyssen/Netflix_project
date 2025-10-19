@@ -13,20 +13,21 @@ Data Cleaning and Transformation
 Database Creation
 Data Visualization
 Conclusions
-Project Description
 
-In this project, we:
+Project Description:
 
-Utilize three datasets: "What We Watch on Netflix" (Excel format), IMDb ratings (TSV format), and IMDb titles (TSV format).
+In this project, we utilize three datasets: "What We Watch on Netflix" (Excel format), IMDb ratings (TSV format), and IMDb titles (TSV format).
 Clean and transform the datasets using pandas.
 Create a database using these datasets as tables with SQLite3.
 Visualize different relationships between the tables using seaborn and matplotlib.
-Datasets
+
+Datasets:
 
 What We Watch on Netflix: This dataset contains information about the hours viewed for various titles on Netflix.
 IMDb Ratings: This dataset contains user ratings for various titles.
 IMDb Titles: This dataset contains information about the titles such as genres, release dates, etc.
-Setup
+
+Setup:
 
 To set up this project, follow these steps:
 
@@ -39,20 +40,20 @@ Install the necessary dependencies:
 ```sh
 pip install pandas seaborn matplotlib sqlite3
 ```
-Data Cleaning and Transformation
+Data Cleaning and Transformation:
 
 The datasets are cleaned and transformed using pandas. This involves:
 
 Reading the datasets from their respective formats (Excel and TSV).
 Handling missing values and duplicates.
 Merging datasets to create a comprehensive dataset for analysis.
-Database Creation
 
-An SQLite3 database is created to store the cleaned datasets as tables. This involves:
+Database Creation:
 
-Connecting to SQLite3.
+Using SQLite3 database to store the cleaned datasets as tables. This involves:Connecting to SQLite3.
 Creating tables and inserting data into the tables.
-Data Visualization
+
+Data Visualization:
 
 Using seaborn and matplotlib, various relationships between the datasets are visualized, such as:
 
